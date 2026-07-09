@@ -25,6 +25,8 @@
 | [Block: Tabs](https://github.com/vokylin/plugin-block-tabs)                                                                                | A powerful NocoBase plugin that provides tabbed interface components for organizing multiple blocks, reducing page scrolling and improving content organization.                                                                                                                                                                                                                |
 | [Watermark-shuiyin1](https://github.com/fengwenkai168/nocobase-plugin/)                                                                              |中文：NocoBase 水印插件能在页面上覆盖半透明水印，显示当前登录用户名以防止截图泄密，并支持在插件设置中自定义水印文字、透明度和字号。English: The NocoBase watermark plugin overlays a semi-transparent watermark on pages displaying the current logged-in username to prevent screenshot leaks, and supports customizing watermark text, opacity, and font size in the plugin settings.                                                                                                                                                                                                                |
 
+| [Role Switcher](https://github.com/michaelxmn/plugin-role-switcher)                                                                                | A NocoBase plugin that adds a **Role Switcher** to the top navigation bar, making role switching faster and easier to discover.                                                                                         |
+
 ## Contributing
 
 Contributions are welcome. Please keep this list focused on NocoBase resources.
