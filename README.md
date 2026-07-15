@@ -28,7 +28,7 @@
 | [Watermark-shuiyin1](https://github.com/fengwenkai168/nocobase-plugin/) | The NocoBase watermark plugin overlays a semi-transparent watermark on pages displaying the current logged-in username to prevent screenshot leaks, and supports customizing watermark text, opacity, and font size in the plugin settings. | NocoBase 水印插件能在页面上覆盖半透明水印，显示当前登录用户名以防止截图泄密，并支持在插件设置中自定义水印文字、透明度和字号。 |
 | [Role Switcher](https://github.com/michaelxmn/plugin-role-switcher) | A NocoBase plugin that adds a **Role Switcher** to the top navigation bar, making role switching faster and easier to discover. | 一个在顶部导航栏中添加 **角色切换器** 的 NocoBase 插件，让角色切换更快捷、更易发现。 |
 | [Per-User Column Settings](https://github.com/Albert-mah/nocobase-plugin-user-columns) | Per-user table column settings for client-v2 tables: one toolbar action lets every end user show/hide, drag-reorder, pin and resize columns for themselves, spreadsheet-style, without touching the shared page schema. | 为 client-v2 表格提供按用户保存的列设置：每位终端用户都可以通过一个工具栏操作，以类似电子表格的方式显示或隐藏、拖拽排序、固定及调整列宽，且不会修改共享页面 Schema。 |
-
+| [Field Sequence Pro](https://github.com/ericto888/nocobase-plugin-field-sequence-pro) | Extends the official auto-increment field with three powerful features: form variable values, value mapping dictionaries, and multi-dimensional isolated counters, while retaining all core functionalities. | 在官方自动编码字段基础上增强，新增表单变量取值、值映射字典和多维度隔离计数三大特性，同时保留官方全部核心功能。 |
 ## Contributing
 
 Contributions are welcome. Please keep this list focused on NocoBase resources.
