@@ -37,6 +37,11 @@
 | [View:  timeline](https://github.com/youchaoyun/nocobase-timeline) | timeline is a NocoBase timeline block plugin for displaying multi-record data along a time dimension. It works well for project milestones, event history, engineering progress, and other chronological scenarios. | timeline 是一个 NocoBase 时间轴区块插件，用于按时间维度展示多条记录数据，适合项目节点、事件轨迹、建设过程、历史变更等场景。 |
 | [View:  gallery-view](https://github.com/youchaoyun/nocobase-gallery-view) | gallery-view is a NocoBase gallery view block plugin used to display multiple data records as image card carousels. It is suitable for product showcases, case studies, portfolio browsing, image-text content navigation, and similar scenarios. | gallery-view 是一个 NocoBase 画廊视图区块插件，用于将多条数据记录以图片卡片轮播的方式进行展示，适合产品展示、案例展示、作品集浏览、图文内容导览等场景。 |
 | [Multi Tab Page](https://github.com/simousa/nocobase-plugin/tree/main/plugin-tab-page) | It is a NocoBase multi-tab plugin. Each time a menu/page is opened, a new tab is created. By clicking on the tab, you can switch between the opened pages. Make the menus and pages of NocoBase open, switch and close just like browser tabs. | 这是一个 Nocobase 多标签页插件。每打开一个菜单/页面就新增一个标签，点击标签即可在已打开的页面之间切换。让 NocoBase 的菜单和页面像浏览器标签页一样打开、切换、关闭。 |
+| [Logger Pro](https://github.com/STlxx-lin/nocobase-plugin-logger-pro) | Enterprise-grade logging console, end-to-end request tracing, AI error diagnostics, user operation audit Diff view, and multi-channel alerting. | 企业级系统日志控制台、全链路请求追踪、AI 错误日志智能诊断、用户操作审计 Diff 对比及多渠道异常告警体系。 |
+| [Online Count](https://github.com/STlxx-lin/nocobase-plugin-online-count) | Real-time online user counter, active session tracking, concurrent login policy, force logout, and historical online trend analytics. | 实时在线人数监控、在线用户与活跃会话管理、多端并发登录管控、一键强制下线及历史在线趋势分析。 |
+| [Attachment Cleaner](https://github.com/STlxx-lin/nocobase-plugin-attachment-cleaner) | Scan, analyze, and clean orphaned or expired attachments with disk storage visualization. | 扫描、分析并清理 NocoBase 中的未引用孤立附件或过期附件，支持磁盘占用统计与一键安全清理。 |
+| [Custom Icons](https://github.com/STlxx-lin/nocobase-plugin-custom-icons) | Custom SVG icons, external icon libraries import (Iconfont, Iconify, Caomei), and seamless integration with NocoBase IconPicker. | 自定义 SVG 图标扩展、第三方图标库市场（Iconfont、Iconify、创造狮等）在线导入与原生图标选择器无缝集成。 |
+
 ## Contributing
 
 Contributions are welcome. Please keep this list focused on NocoBase resources.
