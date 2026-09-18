@@ -41,6 +41,8 @@
 | [Online Count](https://github.com/STlxx-lin/nocobase-plugin-online-count) | Real-time online user counter, active session tracking, concurrent login policy, force logout, and historical online trend analytics. | 实时在线人数监控、在线用户与活跃会话管理、多端并发登录管控、一键强制下线及历史在线趋势分析。 |
 | [Attachment Cleaner](https://github.com/STlxx-lin/nocobase-plugin-attachment-cleaner) | Scan, analyze, and clean orphaned or expired attachments with disk storage visualization. | 扫描、分析并清理 NocoBase 中的未引用孤立附件或过期附件，支持磁盘占用统计与一键安全清理。 |
 | [Custom Icons](https://github.com/STlxx-lin/nocobase-plugin-custom-icons) | Custom SVG icons, external icon libraries import (Iconfont, Iconify, Caomei), and seamless integration with NocoBase IconPicker. | 自定义 SVG 图标扩展、第三方图标库市场（Iconfont、Iconify、创造狮等）在线导入与原生图标选择器无缝集成。 |
+| [快速筛选](https://github.com/charce526/plugin-quick-filter) | Provide configurable option-based quick filtering and text search for the NocoBase data table action bar, while maintaining compatibility with both V1 Schema pages and V2 FlowEngine pages. | 为 NocoBase 数据表格操作栏提供可配置的选项快捷筛选与文本搜索，同时兼容 V1 Schema 页面与 V2 FlowEngine 页面。 |
+| [扩展图标库](https://github.com/charce526/plugin-icon-library) | NocoBase icon library extension plugin. Provides 1400+ icons with semantic categories for visual configuration points such as menus, buttons, and page tabs. | NocoBase 扩展图标库插件。为菜单、按钮、页面标签等可视化配置位置提供 1400+ 个图标与语义分类。 |
 
 ## Contributing
 
