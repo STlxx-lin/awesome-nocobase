@@ -1,19 +1,10 @@
 # Awesome NocoBase
 
-> A curated list of delightful NocoBase plugins, extensions, JS block scripts, and community resources.  
-> 汇聚全球社区精选的 NocoBase 开源插件、扩展模块与实战资源。
+> A curated list of NocoBase plugins, JS block scripts, etc.
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/STlxx-lin/awesome-nocobase/pulls)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://opensource.org/licenses/MIT)
 
-[NocoBase](https://www.nocobase.com/) is an extensible, private-first, open-source AI + no-code/low-code platform for building business systems fast. Instead of generating everything from scratch, AI works on top of production-proven infrastructure and a WYSIWYG no-code interface, giving you both development velocity and architectural reliability.
-
-**Awesome NocoBase** is a community-driven repository aimed at collecting high-quality, production-ready, and open-source plugins developed by the community. Whether you need an enterprise custom login page, workflow-driven password recovery, multi-engine file previews, or advanced table features, this list serves as your premier starting point.
-
-[NocoBase](https://www.nocobase.com/) 是一个极具扩展性、私有优先的开源 AI + 无代码/低代码应用开发平台。用户无需从零编写业务脚手架，依托成熟稳健的基础设施与所见即所得的可视化配置，既享有敏捷交付的高效，又兼备企业级架构的稳固可靠。
-
-**Awesome NocoBase** 致力于收集并索引全球社区开发者打造的高质量、生产级开源插件。不论是企业级自定义登录页、密码自助找回联动、全格式文档预览，还是工作流自动化与系统运维审计，你都能在这里找到开箱即用的解决方案。
+[NocoBase](https://www.nocobase.com/) is an open-source AI + no-code platform for building business systems fast. Instead of generating everything from scratch, AI works on top of production-proven infrastructure and a WYSIWYG no-code interface, so you get both speed and reliability.
 
 ## Contents
 
