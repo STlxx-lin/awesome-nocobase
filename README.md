@@ -1,10 +1,19 @@
 # Awesome NocoBase
 
-> A curated list of NocoBase plugins, JS block scripts, etc.
+> A curated list of delightful NocoBase plugins, extensions, JS block scripts, and community resources.  
+> 汇聚全球社区精选的 NocoBase 开源插件、扩展模块与实战资源。
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/STlxx-lin/awesome-nocobase/pulls)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://opensource.org/licenses/MIT)
 
-[NocoBase](https://www.nocobase.com/) is an open-source AI + no-code platform for building business systems fast. Instead of generating everything from scratch, AI works on top of production-proven infrastructure and a WYSIWYG no-code interface, so you get both speed and reliability.
+[NocoBase](https://www.nocobase.com/) is an extensible, private-first, open-source AI + no-code/low-code platform for building business systems fast. Instead of generating everything from scratch, AI works on top of production-proven infrastructure and a WYSIWYG no-code interface, giving you both development velocity and architectural reliability.
+
+**Awesome NocoBase** is a community-driven repository aimed at collecting high-quality, production-ready, and open-source plugins developed by the community. Whether you need an enterprise custom login page, workflow-driven password recovery, multi-engine file previews, or advanced table features, this list serves as your premier starting point.
+
+[NocoBase](https://www.nocobase.com/) 是一个极具扩展性、私有优先的开源 AI + 无代码/低代码应用开发平台。用户无需从零编写业务脚手架，依托成熟稳健的基础设施与所见即所得的可视化配置，既享有敏捷交付的高效，又兼备企业级架构的稳固可靠。
+
+**Awesome NocoBase** 致力于收集并索引全球社区开发者打造的高质量、生产级开源插件。不论是企业级自定义登录页、密码自助找回联动、全格式文档预览，还是工作流自动化与系统运维审计，你都能在这里找到开箱即用的解决方案。
 
 ## Contents
 
@@ -43,6 +52,8 @@
 | [Custom Icons](https://github.com/STlxx-lin/nocobase-plugin-custom-icons) | Custom SVG icons, external icon libraries import (Iconfont, Iconify, Caomei), and seamless integration with NocoBase IconPicker. | 自定义 SVG 图标扩展、第三方图标库市场（Iconfont、Iconify、创造狮等）在线导入与原生图标选择器无缝集成。 |
 | [快速筛选](https://github.com/charce526/plugin-quick-filter) | Provide configurable option-based quick filtering and text search for the NocoBase data table action bar, while maintaining compatibility with both V1 Schema pages and V2 FlowEngine pages. | 为 NocoBase 数据表格操作栏提供可配置的选项快捷筛选与文本搜索，同时兼容 V1 Schema 页面与 V2 FlowEngine 页面。 |
 | [扩展图标库](https://github.com/charce526/plugin-icon-library) | NocoBase icon library extension plugin. Provides 1400+ icons with semantic categories for visual configuration points such as menus, buttons, and page tabs. | NocoBase 扩展图标库插件。为菜单、按钮、页面标签等可视化配置位置提供 1400+ 个图标与语义分类。 |
+| [Custom Login Page Pro](https://github.com/STlxx-lin/nocobase-plugin-custom-login-page) | Enterprise-grade visual custom login page builder driven by FlowEngine grid, featuring 14 built-in customizable blocks (Hero banner, feature matrix, stats, notices, QR codes, countdown), dual-mode workbench studio, and high-concurrency memory caching. | 企业级可视化自定义登录页与模块扩展插件，基于 FlowEngine 原生网格引擎驱动，内置 14 类开箱即用专属区块（品牌标语、特性矩阵、数据看板、公告、客服二维码、倒计时等），支持双层工作台设计器与高并发内存缓存。 |
+| [Password Recovery](https://github.com/STlxx-lin/nocobase-plugin-password-recovery) | Enterprise self-service password recovery plugin for NocoBase with workflow triggers (SMS, DingTalk, WeCom, Feishu, SMTP), anti-abuse rate limits, multi-step verification wizard, and audit logs. | 企业级密码自助找回与工作流联动插件，支持登录页两步向导集成、数据表事件驱动工作流联动（支持企微/钉钉/飞书/邮件/短信等多渠道通知）、防刷限流与全流程运维审计。 |
 
 ## Contributing
 
